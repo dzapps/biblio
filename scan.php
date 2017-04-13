@@ -1,6 +1,6 @@
 <?php
 
-$dir = "https://dzapps.github.io/biblio/files";
+$dir = "files";
 
 // Run the recursive function 
 
